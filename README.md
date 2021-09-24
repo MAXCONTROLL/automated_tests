@@ -1,2 +1,2 @@
 # automated_tests
-test for automated_tests
+Написаны тесты для курса по Автоматизированному тестированию
